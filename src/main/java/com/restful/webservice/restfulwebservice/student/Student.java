@@ -1,4 +1,4 @@
-package com.restful.webservice.restfulwebservice;
+package com.restful.webservice.restfulwebservice.student;
 
 import java.util.Date;
 

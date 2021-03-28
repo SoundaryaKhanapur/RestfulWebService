@@ -1,4 +1,4 @@
-package com.restful.webservice.restfulwebservice;
+package com.restful.webservice.restfulwebservice.helloworld;
 
 public class HelloWorld {
 
