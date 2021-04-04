@@ -8,6 +8,9 @@ public class Student {
 	private String name;
 	private Date birthDate;
 	
+	//default constructor
+	protected Student() {}
+	
 	public Student(Integer id, String name, Date birthDate) {
 		super();
 		this.id = id;

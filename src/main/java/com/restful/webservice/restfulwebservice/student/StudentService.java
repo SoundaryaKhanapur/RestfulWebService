@@ -13,8 +13,8 @@ public class StudentService {
 	private static int studentCount = 3;
 	static	{
 		students.add(new Student(1, "Sandy", new Date()));
-		students.add(new Student(1, "Pooh", new Date()));
-		students.add(new Student(1, "V", new Date()));
+		students.add(new Student(2, "Pooh", new Date()));
+		students.add(new Student(3, "V", new Date()));
 	}
 	
 	public List<Student> returnStudents() {
